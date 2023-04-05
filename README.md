@@ -14,8 +14,8 @@ How to detect fraudulent transactions and provide insights to businesses to help
 1. Develop an end-to-end data pipeline that allows data analysts and business intelligence professionals to choose between batched data and real-time streamed data.
 2. Build an analytics dashboard that utilizes data from the analytics database to generate meaningful insights for the organization.
 
-## PySpark Dataflow
-![img](/assets/Drawing%20pyspark%20to%20GCS%20and%20GCP.drawio.png)
+## End to End Schema
+![Data Pipeline](https://user-images.githubusercontent.com/98518827/230118969-7c033309-224d-4c7f-8146-3e5922f40f88.png)
 
 ### Installation and Usage Guidelines
 
