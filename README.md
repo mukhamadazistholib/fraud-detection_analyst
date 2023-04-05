@@ -14,9 +14,7 @@ How to detect fraudulent transactions and provide insights to businesses to help
 1. Develop an end-to-end data pipeline that allows data analysts and business intelligence professionals to choose between batched data and real-time streamed data.
 2. Build an analytics dashboard that utilizes data from the analytics database to generate meaningful insights for the organization.
 
-
-
-#### PySpark Dataflow
+## PySpark Dataflow
 ![img](/assets/Drawing%20pyspark%20to%20GCS%20and%20GCP.drawio.png)
 
 ### Installation and Usage Guidelines
@@ -30,9 +28,9 @@ How to detect fraudulent transactions and provide insights to businesses to help
     
     C. Google's Credential Service Account used for GCS and Bigquery access: [Get Here](https://developers.google.com/workspace/guides/create-credentials)
     
-    D. Kafka: [Install Here] ([https://docs.getdbt.com/docs/get-started/pip-install](https://kafka.apache.org/quickstart))
+    D. Kafka: [Install Here](https://kafka.apache.org/quickstart)
     
-    E. Airflow : [Install Here] ([https://docs.docker.com/engine/install/ubuntu/](https://airflow.apache.org/docs/apache-airflow/stable/installation/index.html))
+    E. Airflow : [Install Here](https://airflow.apache.org/docs/apache-airflow/stable/installation/index.html)
     
 ### Usage Guideline 
 ![Data Pipeline Graph-](https://user-images.githubusercontent.com/98518827/229811511-20bb9efa-b022-4680-81d9-63ff0a09d707.png)
@@ -50,6 +48,9 @@ Looker Studio: Once data is entered into BigQuery, Looker Studio will be used as
 ## Data Visualization Dashboard
 
 Access the dashboard [here](https://lookerstudio.google.com/u/0/reporting/fd89ad24-b3a1-433e-8008-30bb3fd8ac46/page/zGfKD)
+
+
+![Fraud Monitoring Dashboard](https://user-images.githubusercontent.com/98518827/230102256-57069407-0b4d-4743-8a5d-719eea536087.png)
    
 ## Kelompok 4 DF 9 
 - Chandra Parashian Napitupulu
