@@ -1,0 +1,11 @@
+{
+  "namespace": "com.practice.bitcoin",
+  "type": "record",
+  "name": "FraudKey",
+  "fields": [
+    {
+      "name": "step",
+      "type" : "string"
+    }
+  ]
+}
