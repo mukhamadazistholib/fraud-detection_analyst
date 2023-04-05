@@ -51,6 +51,7 @@ Access the dashboard [here](https://lookerstudio.google.com/u/0/reporting/fd89ad
 
 
 ![Fraud Monitoring Dashboard](https://user-images.githubusercontent.com/98518827/230102256-57069407-0b4d-4743-8a5d-719eea536087.png)
+![Monitoring detail transaction](https://user-images.githubusercontent.com/98518827/230102273-89150897-35a3-4c00-8d35-003c7873946b.png)
    
 ## Kelompok 4 DF 9 
 - Chandra Parashian Napitupulu
